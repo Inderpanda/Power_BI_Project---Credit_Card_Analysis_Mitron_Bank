@@ -25,7 +25,7 @@ The goal was to analyze this data and provide key insights to guide Mitron Bank 
 𝐂𝐫𝐞𝐝𝐢𝐭 𝐂𝐚𝐫𝐝 𝐔𝐬𝐚𝐠𝐞 % - It is calculated as Total Credit card spent / Total Spent. It allows us to know how much the credit card is used among all different payment types.
 
 
-📊 𝐊𝐞𝐲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: 
+# 📊 𝐊𝐞𝐲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: 
 
 𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩: Adults (25–34) led in spending and credit card usage, while Middle Age (35-45) exhibited the highest Income Utilization %.
 
